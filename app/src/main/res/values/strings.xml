@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRuns1</string>
+    <string name="photo_button_title">Change Photo</string>
+    <string name="label_picture">Profile Photo:</string>
+    <string name="person_name">Your Name</string>
+    <string name="person_email">Your Email</string>
+    <string name="person_ph_number">Your Phone Number</string>
+    <string name="person_genderm">Male</string>
+    <string name="person_genderf">Female</string>
+    <string name="person_class">eg. 2023</string>
+    <string name="person_major">Major</string>
+    <string name="person_save_profile">Save</string>
+    <string name="cancel_app">Cancel</string>
+</resources>
